@@ -11,5 +11,5 @@
       "dest": "/api/index.php"
     }
   ],
-  "installCommand": "npm install --ignore-scripts --omit=optional"
+  "installCommand": "true"
 }
