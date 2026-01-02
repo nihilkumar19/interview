@@ -1,2 +1,2 @@
 [build]
-builder = "heroku/buildpacks:php"
+builder = "heroku/buildpacks:20"
