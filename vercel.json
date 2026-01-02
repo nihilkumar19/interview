@@ -11,5 +11,7 @@
       "dest": "/api/index.php"
     }
   ],
-  "installCommand": "true"
+  "buildCommand": "true",
+  "installCommand": "true",
+  "outputDirectory": "public"
 }
